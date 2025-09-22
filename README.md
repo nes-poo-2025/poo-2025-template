@@ -5,7 +5,7 @@ Este repositório é o template das atividades da disciplina.
 
 ## Estrutura
 
-- `/materiais`: materiais fornecidos pelo professor
+- [`/materiais`](/materiais/): materiais fornecidos pelo professor
 
 - [Aqui está](https://colab.research.google.com/drive/1vhT3ckAb48O-kdj6S9J5ZycipxFS5C1g?usp=sharing) o colab utilizado nas aulas.
 
